@@ -3,4 +3,4 @@ Data Analytics Projects
 Tableau Dashboard
 Tools: Pandas, Numpy, Seaborn , Matplotlib , PowerBI & Tableau
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
-
+• Data Analytics & Visualisation
